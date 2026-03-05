@@ -1,0 +1,612 @@
+Partner_1,Partner_2,Shared_Projects
+TotalEnergies,Air Liquide,9
+Air Liquide,Holcim Group,8
+TotalEnergies,Equinor,7
+Air Liquide,Lhoist,6
+TotalEnergies,Shell,6
+Gas Storage Denmark,Capio Danmark,5
+Equinor,Aker,5
+Fidelis new energy,Capio Danmark,5
+Fidelis new energy,Gas Storage Denmark,5
+OMV,Air Liquide,5
+OMV,TotalEnergies,5
+Carbon Catalyst Ltd,Prenco UK,5
+Shell,Harbour Energy,4
+BP,Technip,4
+SSE,Equinor,4
+Equinor,BP,4
+EnEarth,RepAir,4
+unknown company,Aker,4
+Shell,Equinor,4
+Storegga,Shell,4
+Storegga,Harbour Energy,3
+Verdalis,ArcelorMittal,3
+Verdalis,Chaux et Dolomines du boulonnais,3
+Verdalis,Port of Dunkerque,3
+Sunfire,Valinor,3
+Sunfire,Climeworks,3
+Snam,Eni,3
+Air Liquide,Port of Dunkerque,3
+TotalEnergies,BP,3
+BP,Harbour Energy,3
+Storegga,North Sea Midstream partners,3
+Air Liquide,Chaux et Dolomines du boulonnais,3
+Air Liquide,Fluxys,3
+Equinor,Harbour Energy,3
+Esso,Air Liquide,3
+EBN,Shell,3
+EBN,Gasunie,3
+EBN,Eni,3
+OMV,Esso,3
+OMV,Yara,3
+Holcim Group,ORLEN,3
+Climeworks,Valinor,3
+CarbFix,Dan-unity CO2,3
+Fluxys,Port of Antwerp,3
+CarbFix,Climeworks,3
+TotalEnergies,Yara,3
+Prenco UK,Harbour Energy,3
+Mistubishi Heavy Industries,Worley,3
+Yara,Air Liquide,3
+TotalEnergies,Fluxys,3
+Yara,Esso,3
+Shell,North Sea Midstream partners,3
+Air Liquide,BASF,3
+Air Liquide,Verdalis,3
+Duisport,Air Liquide,3
+Duisport,Lhoist,3
+Port of Rotterdam,Gasunie,3
+Carbon Catalyst Ltd,Harbour Energy,3
+Paul Wurth SA,Climeworks,3
+Paul Wurth SA,Sunfire,3
+Paul Wurth SA,Valinor,3
+TotalEnergies,Gasunie,3
+Chaux et Dolomines du boulonnais,Port of Dunkerque,3
+ArcelorMittal,Port of Dunkerque,3
+Air Liquide,ArcelorMittal,3
+Air Liquide,ORLEN,3
+North Sea Midstream partners,Harbour Energy,3
+TotalEnergies,EBN,3
+TotalEnergies,Esso,3
+Technip,Harbour Energy,3
+Shell,Gasunie,3
+ArcelorMittal,Chaux et Dolomines du boulonnais,3
+RepAir,C-Questra,3
+Navigator Holdings,Enfinium,2
+TotalEnergies,BASF,2
+Repsol,IFP Energies Nouvelles,2
+Repsol,Schlumberger,2
+Repsol,CNAM,2
+Repsol,Agglo Pau,2
+North Sea Port,Fluxys,2
+Repsol,BGRM,2
+Schlumberger,BGRM,2
+Altera,Harbour Energy,2
+Air Liquide,Port of Antwerp,2
+Eni,Air Liquide,2
+Repsol,geostock,2
+Repsol,Holcim Group,2
+Schlumberger,IFP Energies Nouvelles,2
+Schlumberger,Terega,2
+Repsol,Terega,2
+Schlumberger,Holcim Group,2
+Schlumberger,geostock,2
+Navigator Holdings,Bechtel,2
+North Sea Port,ArcelorMittal,2
+Repsol,Pole Avenia,2
+Repsol,geopetrol,2
+Costain,BP,2
+Linde,Equinor,2
+OneDyas,Eni,2
+Enfinium,Bechtel,2
+Pole Avenia,geostock,2
+Pole Avenia,Holcim Group,2
+Fortum,Uniper,2
+Pole Avenia,geopetrol,2
+Pole Avenia,Terega,2
+Pole Avenia,BGRM,2
+Pole Avenia,IFP Energies Nouvelles,2
+Pole Avenia,CNAM,2
+Pole Avenia,Schlumberger,2
+CNAM,Holcim Group,2
+Mistubishi Heavy Industries,Drax,2
+Gas Storage Denmark,Ross Energy,2
+geopetrol,Schlumberger,2
+geopetrol,CNAM,2
+geopetrol,IFP Energies Nouvelles,2
+geopetrol,BGRM,2
+geopetrol,Terega,2
+geopetrol,Holcim Group,2
+CNAM,geostock,2
+CNAM,Terega,2
+EBN,OneDyas,2
+ENKA,EET Hydrogen,2
+Agglo Pau,geostock,2
+Agglo Pau,Holcim Group,2
+Agglo Pau,Pole Avenia,2
+ExxonMobil,Air Liquide,2
+ExxonMobil,Port of Antwerp,2
+ExxonMobil,BASF,2
+Agglo Pau,geopetrol,2
+ExxonMobil,Fluxys,2
+Agglo Pau,Terega,2
+CNAM,BGRM,2
+BP,ADNOC,2
+Snam,Air Liquide,2
+Agglo Pau,IFP Energies Nouvelles,2
+Agglo Pau,CNAM,2
+Agglo Pau,Schlumberger,2
+CNAM,Schlumberger,2
+CNAM,IFP Energies Nouvelles,2
+Peel NRE,Progressive Energy,2
+Agglo Pau,BGRM,2
+geopetrol,geostock,2
+Gasunie,Energie Beheer Nederland,2
+Welltec,INEOS,2
+OMV,Fluxys,2
+OMV,INEOS,2
+OMV,BASF,2
+Université de Pau,geopetrol,2
+OMV,ExxonMobil,2
+Université de Pau,Pole Avenia,2
+Université de Pau,Holcim Group,2
+Université de Pau,geostock,2
+Gasunie,Vopak,2
+SSE,Kellas Midstream,2
+Terega,geostock,2
+Terega,BGRM,2
+Terega,IFP Energies Nouvelles,2
+Summit Energy Evolution Limited,Prenco UK,2
+Summit Energy Evolution Limited,Carbon Catalyst Ltd,2
+TotalEnergies,Holcim Group,2
+CarbonCuts,Bluenord,2
+Aker,Hafslund Oslo Celsio,2
+Capsol,unknown company,2
+Aker,Orsted,2
+Umea Energi,Liquid Wind,2
+Drax,Worley,2
+BGRM,geostock,2
+BGRM,IFP Energies Nouvelles,2
+Removr,CarbFix,2
+Port of Rotterdam,Energie Beheer Nederland,2
+Fluxys,BASF,2
+Fidelis new energy,Ross Energy,2
+Eqiom,Air Liquide,2
+Université de Pau,Terega,2
+OMV,Port of Antwerp,2
+Welltec,Harbour Energy,2
+Université de Pau,Repsol,2
+Université de Pau,CNAM,2
+Uniper,Technip,2
+Eni,Equinor,2
+TotalEnergies,ExxonMobil,2
+Port of Antwerp,BASF,2
+Holcim Group,Terega,2
+Sundsvall Energi,Liquid Wind,2
+Halliburton,Eni,2
+TotalEnergies,Port of Antwerp,2
+Holcim Group,BGRM,2
+Holcim Group,Cool Planet Technologies,2
+Holcim Group,geostock,2
+Université de Pau,Agglo Pau,2
+Université de Pau,IFP Energies Nouvelles,2
+INEOS,BASF,2
+INEOS,Air Liquide,2
+INEOS,ExxonMobil,2
+IFP Energies Nouvelles,geostock,2
+INEOS,Port of Antwerp,2
+TotalEnergies,Harbour Energy,2
+INEOS,TotalEnergies,2
+INEOS,Fluxys,2
+Université de Pau,BGRM,2
+Holcim Group,IFP Energies Nouvelles,2
+Ross Energy,Capio Danmark,2
+INEOS,Harbour Energy,2
+Université de Pau,Schlumberger,2
+TES,Open Grid Europe,1
+Gasunie and Fluxys,Dow,1
+Gasunie and Fluxys,PZEM,1
+Aker,Doosan Babcock; Fugro,1
+Strata Technology,Atkins and Doosan Babcock,1
+MEPUSA,POSCO,1
+MEPUSA,Carbonvert,1
+Sevan SSP,Altera,1
+Sevan SSP,Harbour Energy,1
+MEPUSA,Repsol,1
+emov,ClonBio Group,1
+Sval,INPEX,1
+Lahti Energia,RenGas,1
+Strata Technology,Nottingham University,1
+Strata Technology,Sizewell C,1
+Gasunie and Fluxys,Yara and Zeeland Refinery,1
+Gasunie and Fluxys,ArcelorMittal,1
+Navigator Holdings,Bumi Armada Berhad,1
+Carbonvert,Repsol,1
+Carbonvert,POSCO,1
+Sydkraft AB,Uniper,1
+emov,Danubeenergy ventures,1
+Ocean-Power AS,Amplus Energy Services Limited,1
+Repsol,POSCO,1
+Gasunie,Port den Helder,1
+Gasunie,Fluxys,1
+Gasunie,Port of Antwerp,1
+Orsted,NCC,1
+Orsted,TU Denmark,1
+Dunkerque LNG,Lhoist,1
+Dunkerque LNG,RTE,1
+Dunkerque LNG,Air Liquide,1
+Renova,Gothenburg Port Authority,1
+Aluminium Dunkerque,Fives,1
+Sunfire,Uniper,1
+Sunfire,Sydkraft AB,1
+Eqiom,VDZ,1
+Eqiom,Lhoist,1
+Eqiom,Dunkerque LNG,1
+Eqiom,RTE,1
+Eqiom,France Industries,1
+Aghata,Ervia Cork,1
+Verso Energy,Biomasse Energy d'Alizay,1
+Aquaterra Energy,Royal Wagenborg,1
+Yara and Zeeland Refinery,ArcelorMittal,1
+Yara and Zeeland Refinery,PZEM,1
+Heidelberg Materials,Nordkalk,1
+Heidelberg Materials,Elengy,1
+Heidelberg Materials,GRT Gaz,1
+Heidelberg Materials,Lhoist,1
+Heidelberg Materials,Harbour Energy,1
+Heidelberg Materials,Mälarenergi,1
+Heidelberg Materials,Calix,1
+Heidelberg Materials,Fluxys,1
+Heidelberg Materials,Ports of Stockhom,1
+Heidelberg Materials,Worley,1
+Engie,ArcelorMittal,1
+LIPOR,Veolia,1
+Söderenergi,Mälarenergi,1
+Söderenergi,Nordkalk,1
+Söderenergi,Ports of Stockhom,1
+Söderenergi,Heidelberg Materials,1
+Fluor,Suez,1
+France Industries,VDZ,1
+Kotkan Energia,RenGas,1
+Petoro,Harbour Energy,1
+Yara and Zeeland Refinery,Dow,1
+Northern Lights,Harbour Energy,1
+Holcim Group,Heidelberg Materials,1
+Fluxys,ArcelorMittal,1
+Copenhagen Infrastructure Partners,Vestforbrænding,1
+Dow,ArcelorMittal,1
+Nordkalk,Ports of Stockhom,1
+Lhoist,Elengy,1
+Lhoist,GRT Gaz,1
+PZEM,ArcelorMittal,1
+PZEM,Dow,1
+SubC Partner,A2X,1
+RTE,Lhoist,1
+ThyssenKrupp Group,Nasice cement,1
+Aalborg Forsyning,Copenhagen Infrastructure Partners,1
+Mälarenergi,Nordkalk,1
+Mälarenergi,Ports of Stockhom,1
+Transgaz,Alstom  Oltenia,1
+Technip,ADNOC,1
+Technip,Clariant Catalysts,1
+Technip,Copenhagen Infrastructure Partners,1
+Technip,Vestforbrænding,1
+Royal Wagenborg,Harbour Energy,1
+Fluxys,GRT Gaz,1
+Fluxys,Harbour Energy,1
+Climeworks,Enova,1
+Holcim Group,Elengy,1
+Aquaterra Energy,Harbour Energy,1
+Sizewell C,Atkins and Doosan Babcock,1
+Sylvamo,Verso Energy,1
+Nexe Group,ThyssenKrupp Group,1
+Nexe Group,Nasice cement,1
+Open Grid Europe,Harbour Energy,1
+Open Grid Europe,Fluxys,1
+BP,Worley,1
+Vår Energi,Harbour Energy,1
+Vår Energi,Northern Lights,1
+Vår Energi,Gassco,1
+ANDRITZ,Metsa Group,1
+ANDRITZ,CPC Finland Oy and funds managed by Prime Capital AG,1
+ANDRITZ,Westenergy Ltd,1
+Elyse Energy,Holcim Group,1
+Elyse Energy,Air Liquide,1
+Cory,Technip,1
+Danubeenergy ventures,ClonBio Group,1
+Siemens Energy,Doosan Babcock; Fugro,1
+Topsoe,Essar Energy Transition,1
+Hyscale100 consortium,Holcim Group,1
+Hanson,Heidelberg Materials,1
+Hanson,Worley,1
+Sizewell C,Nottingham University,1
+Kellas Midstream,Worley,1
+Holcim Group,GRT Gaz,1
+Aker,Lyse,1
+Holcim Group,Lhoist,1
+Holcim Group,Verbund,1
+Cementa,Heidelberg Materials,1
+Primetals Technologies,ArcelorMittal,1
+Uniper,Acorn,1
+Petroceltic,Heidelberg Materials,1
+Air Liquide,VDZ,1
+Air Liquide,RTE,1
+Air Liquide,France Industries,1
+Air Liquide,Aalborg Portland,1
+Atkins and Doosan Babcock,Nottingham University,1
+Infinium,ArcelorMittal,1
+Infinium,Engie,1
+KK Invest,Copenhagen Infrastructure Partners,1
+Gassco,Harbour Energy,1
+Gassco,Northern Lights,1
+E4tech,ArcelorMittal,1
+E4tech,Primetals Technologies,1
+CPC Finland Oy and funds managed by Prime Capital AG,Westenergy Ltd,1
+VBSA,KVA Linth,1
+Verso Energy,RYAM,1
+Aker,Heidelberg Materials,1
+Equinor,Northern Lights,1
+Aker,Siemens Energy,1
+Oilex,Technip,1
+TotalEnergies,Eni,1
+TotalEnergies,Grand Ouest,1
+TotalEnergies,Vår Energi,1
+TotalEnergies,Petoro,1
+TotalEnergies,Gassco,1
+TotalEnergies,Aker,1
+TotalEnergies,Worley,1
+Linde,CEMEX,1
+Borg Havn,Borregaard,1
+Borg Havn,FREVAR,1
+Borg Havn,Kvitebjørn Bio-El,1
+Borg Havn,Norske Skog Saugbrugs,1
+Oilex,Aker,1
+Oilex,Synergia Energy,1
+Pori Energia,RenGas,1
+Aker,NCC,1
+CIPNordværk,Copenhagen Infrastructure Partners,1
+CIPNordværk,Aalborg Forsyning,1
+INEOS,Petroineos,1
+INEOS,Royal Wagenborg,1
+INEOS,Aquaterra Energy,1
+Welltec,Royal Wagenborg,1
+Welltec,Aquaterra Energy,1
+Velocys,Clariant Catalysts,1
+Velocys,Technip,1
+OMV,Aker,1
+OMV,Verbund,1
+OMV,Holcim Group,1
+Hoegh LNG,Harbour Energy,1
+Hoegh LNG,Altera,1
+TotalEnergies,GRT Gaz,1
+TotalEnergies,Costain,1
+TotalEnergies,Lhoist,1
+TotalEnergies,Heidelberg Materials,1
+ExxonMobil,Tenaz Energy,1
+Protech,Holcim Group,1
+Protech,Air Liquide,1
+SigmaRoc,Tarmac,1
+EBN,Tenaz Energy,1
+EBN,ExxonMobil,1
+Plagazi,Mälarenergi,1
+Plagazi,Söderenergi,1
+Plagazi,Nordkalk,1
+Plagazi,Vattenfall,1
+Plagazi,Stockolm Exergi,1
+Plagazi,Ports of Stockhom,1
+Plagazi,Heidelberg Materials,1
+North Sea Port,Gasunie and Fluxys,1
+North Sea Port,Gasunie,1
+North Sea Port,Yara and Zeeland Refinery,1
+North Sea Port,Dow,1
+North Sea Port,Port of Antwerp,1
+North Sea Port,PZEM,1
+Gasterra,Gasunie,1
+Gasterra,NHN,1
+Gasterra,Port den Helder,1
+HY2GEN,Gazel Energie,1
+Costain,Equinor,1
+Costain,Technip,1
+Costain,ADNOC,1
+Costain,Worley,1
+TotalEnergies,Elengy,1
+TotalEnergies,Northern Lights,1
+Hoegh LNG,Sevan SSP,1
+SSE,Doosan Babcock; Fugro,1
+SSE,Linde,1
+KBR,Gas Storage Denmark,1
+Fidelis new energy,KBR,1
+Smart Delta Resources,Gasunie and Fluxys,1
+Smart Delta Resources,Yara and Zeeland Refinery,1
+Smart Delta Resources,ArcelorMittal,1
+Smart Delta Resources,North Sea Port,1
+Smart Delta Resources,Dow,1
+Smart Delta Resources,PZEM,1
+Port of Rotterdam,Fluxys,1
+Port of Rotterdam,North Sea Port,1
+Port of Rotterdam,Port of Antwerp,1
+Irving Oil,Ervia Cork,1
+Capsol,Teniska Verken,1
+Capsol,Schwenk's Building Material Group,1
+Capsol,VBSA,1
+Capsol,KVA Linth,1
+Capsol,Öresundskraft,1
+Capsol,Stockolm Exergi,1
+Capsol,Holcim Group,1
+ISPE,Alstom  Oltenia,1
+ISPE,Transgaz,1
+EON,Horisont Energi,1
+Petrofac,Shell,1
+Petrofac,Gasunie,1
+Petrofac,EBN,1
+Petrofac,Capsol,1
+Petrofac,Plagazi,1
+Petrofac,TotalEnergies,1
+Petrofac,Holcim Group,1
+ARC,Copenhagen Port,1
+KBR,carbon clean,1
+KBR,CEMEX,1
+SSE,Siemens Energy,1
+KBR,Capio Danmark,1
+SSE,Aker,1
+SSE,Worley,1
+OMV  AS  and Lime Petroleum AS .,Vår Energi,1
+British Airways,Clariant Catalysts,1
+British Airways,Velocys,1
+British Airways,Technip,1
+Babcock & Wilcox,Copenhagen Port,1
+Babcock & Wilcox,Malarenergi,1
+Babcock & Wilcox,Phillips 66,1
+Nordion Energi,Preem,1
+Nordion Energi,Göteborg Energi,1
+Nordion Energi,Renova,1
+Nordion Energi,Gothenburg Port Authority,1
+P2X Europe,LIPOR,1
+P2X Europe,Veolia,1
+St1.,Preem,1
+St1.,Nordion Energi,1
+St1.,Göteborg Energi,1
+St1.,Renova,1
+St1.,Gothenburg Port Authority,1
+Johnson Matthey,Sunfire,1
+Johnson Matthey,Fortum,1
+Johnson Matthey,Linde,1
+Johnson Matthey,Uniper,1
+Johnson Matthey,SSE,1
+Johnson Matthey,Equinor,1
+Johnson Matthey,Perstorp Oxo AB,1
+Johnson Matthey,Sydkraft AB,1
+Removr,COWI,1
+ExxonMobil,Eni,1
+ExxonMobil,Air Products,1
+Storegga,Chrysaor,1
+EDF,Aluminium Dunkerque,1
+Perstorp Oxo AB,Uniper,1
+Perstorp Oxo AB,Sydkraft AB,1
+Equinor,Doosan Babcock; Fugro,1
+ARC,Babcock & Wilcox,1
+Equinor,Gasunie,1
+Equinor,Engie,1
+Equinor,Siemens Energy,1
+Equinor,GRT Gaz,1
+Equinor,Centrica,1
+Equinor,Vår Energi,1
+Equinor,VNG,1
+Equinor,Fluxys,1
+Equinor,Petoro,1
+Equinor,Gassco,1
+Equinor,Worley,1
+Horisont Energi,PGNiG Upstream Norway,1
+Eni,Harbour Energy,1
+Eni,INPEX,1
+Eni,Tenaz Energy,1
+Eni,Petoro,1
+Eni,Sval,1
+Danish Bio Commodities,Copenhagen Infrastructure Partners,1
+Danish Bio Commodities,KK Invest,1
+Trimet,Fives,1
+Trimet,EDF,1
+Trimet,Rio Tinto,1
+Trimet,Aluminium Dunkerque,1
+Ervia Cork,Whitegate,1
+Kent,Harbour Energy,1
+Perstorp Oxo AB,Sunfire,1
+EDF,Rio Tinto,1
+Kent,Topsoe,1
+EDF,Fives,1
+Aker,Harbour Energy,1
+Aker,TES,1
+Aker,Technip,1
+Aker,Rohm,1
+Aker,Gassco,1
+Aker,Nordbex AB,1
+Aker,Northern Lights,1
+Aker,Limeco,1
+Aker,Vår Energi,1
+Aker,Kalundborg,1
+Aker,Soderenergi,1
+Aker,Twence,1
+Vattenfall,Mälarenergi,1
+Vattenfall,Söderenergi,1
+Vattenfall,Nordkalk,1
+Vattenfall,Ports of Stockhom,1
+Vattenfall,SAS,1
+Vattenfall,Heidelberg Materials,1
+Rio Tinto,Fives,1
+Rio Tinto,Aluminium Dunkerque,1
+Synergia Energy,Aker,1
+Synergia Energy,Technip,1
+carbon clean,CEMEX,1
+Grand Ouest,Elengy,1
+Grand Ouest,Heidelberg Materials,1
+Grand Ouest,Lhoist,1
+Grand Ouest,GRT Gaz,1
+Grand Ouest,Holcim Group,1
+MOL Group,INA,1
+Kent,Technip,1
+Kent,BP,1
+Storegga,Sval,1
+BIR,Aker,1
+Danish Underground Consortium,TU Denmark,1
+Danish Underground Consortium,Orsted,1
+Juel+Krøyer and HYTOR Group,SubC Partner,1
+Juel+Krøyer and HYTOR Group,A2X,1
+Nuon,Gasunie,1
+Nuon,Equinor,1
+Singleton Birch,Origin,1
+RWE,Dragon,1
+RWE,Technip,1
+Statkraft,Aker,1
+Statkraft,Carbon Recycling International,1
+Breedon group,Progressive Energy,1
+Stockolm Exergi,Mälarenergi,1
+Stockolm Exergi,Söderenergi,1
+Stockolm Exergi,Nordkalk,1
+Stockolm Exergi,Vattenfall,1
+Stockolm Exergi,Ports of Stockhom,1
+Stockolm Exergi,Heidelberg Materials,1
+Göteborg Energi,Preem,1
+Göteborg Energi,Renova,1
+Göteborg Energi,Gothenburg Port Authority,1
+Peel NRE,Bioenergy Infrastructure Group,1
+Peel NRE,Mistubishi Heavy Industries,1
+NHN,Gasunie,1
+NHN,Port den Helder,1
+Forus Energi,Lyse,1
+Forus Energi,Aker,1
+Storegga,Eni,1
+Storegga,INPEX,1
+EEPUKL,Eni,1
+Shell,Chrysaor,1
+Kent,Essar Energy Transition,1
+Shell,Cory,1
+Preem,Aker,1
+Preem,Equinor,1
+Preem,Renova,1
+Preem,Gothenburg Port Authority,1
+LanzaTech,Primetals Technologies,1
+LanzaTech,ArcelorMittal,1
+LanzaTech,Vattenfall,1
+LanzaTech,E4tech,1
+LanzaTech,SAS,1
+Tampereen Energia,RenGas,1
+Fortum,Sunfire,1
+Fortum,Aker,1
+Fortum,Perstorp Oxo AB,1
+Fortum,Sydkraft AB,1
+Mistubishi Heavy Industries,Heidelberg Materials,1
+Mistubishi Heavy Industries,Hanson,1
+Mistubishi Heavy Industries,Topsoe,1
+Mistubishi Heavy Industries,Kent,1
+Mistubishi Heavy Industries,Essar Energy Transition,1
+Mistubishi Heavy Industries,Bioenergy Infrastructure Group,1
+Kvitebjørn Bio-El,FREVAR,1
+Shell,Aker,1
+Shell,Northern Lights,1
+Shell,Esso,1
+Shell,BP,1
+Shell,Vår Energi,1
+Shell,Uniper,1
+Shell,Technip,1
+Shell,Gassco,1
+GRT Gaz,Elengy,1

@@ -1,0 +1,21 @@
+Metric,Value
+Number of Partners,329
+Number of Collaborations,611
+Network Density,0.0113
+Is Connected,False
+Number of Components,76
+Largest Component Size,199
+Largest Component Percentage,60.49
+Average Shortest Path Length,3.7943
+Diameter,11
+Average Clustering Coefficient,0.0771
+Transitivity,0.4127
+Degree Centralization,0.0976
+Mean Degree,3.71
+Median Degree,2
+Max Degree,32
+Mean Shared Projects,1.52
+Median Shared Projects,1
+Max Shared Projects,9
+Number of Communities,11
+Modularity,0.6446
